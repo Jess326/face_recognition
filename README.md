@@ -1,0 +1,2 @@
+# face_recognition
+使用dlib實作人臉辨識，並結合mysql設計會員登入系統
